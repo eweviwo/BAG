@@ -1,7 +1,14 @@
 ### Big Architecture Graphic
 
-The Big Architecture Graphic is shortened as BAG. It will show the high level system design for the project. This will be our informing whiteboard for brainstorming on system architecture. The guiding principles are below; 
+The Big Architecture Graphic is shortened as B.A.G. or BAG.  
 
-- **Detailed Involvement**: Whiles it is easy to sketch smart digrams without getting interested in lower level engineering, we encourage any contributor here to be technically involved in at least one repo to be better of informed of some dependencies. In other words, be interested from the bottom up.
-- **Ordered Changes**: The Changelog will also guide the improvement of the BAG. There will be many changes submitted to repos along the line and Maintainers or Core Contributors will manage these change sets and apply it to the BAG on a need basis. Summary of the changes will be communicated in the Changelog document.
-- **Whiteboard Behaving**: As much as the project is inviting a diverse number of contributors, we will not like to limit the look of the design to be very formal or professionally developed from a high end CAD. We encourage anyone to express how they draw on a digital whiteboard. The community will be glad to follow your marker.
+It shows the top level system design for the project. All repositories from the breakdown are represented in the architecture. The architecture aims to present a unified vision of how any dependencies in the project will work as a system. 
+
+The architecture is open to change for the project's development. As such, any contributor is welcomed to brainstorm on its improvement. It is recommended any contributor to be active in other repositories so as to push (informed) changes to this architecture. 
+
+Why does this architecture matter? 
+
+- **Recognising Diversity**: Invited contributions will be more than just code. The architecture allows anyone to get a broad picture of what their input will be expected to do given other dependencies of the project will work or interact with it. 
+- **Encouraging Systems Thinking**: A standalone input cant build a good digital learning experience for cultural education. Other insights and perspectives are needed to build an engaging learning experience for anyone.
+- **Seeking Automation**: Before cost effective automations in tools can be done for people and processes, important manual ativities need to be captured in a diagram that shows an end to end group of activities.  
+- **Encouraging New Learnings**: Prospective contributors must be invited to learn at least one new thing for themselves.
